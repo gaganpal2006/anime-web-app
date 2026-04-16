@@ -7,7 +7,9 @@ anime_db = {
     "romance": ["Your Name", "Toradora", "Horimiya"],
     "comedy": ["Gintama", "Konosuba", "One Punch Man"],
     "dark": ["Death Note", "Tokyo Ghoul", "Parasyte"],
-    "adventure": ["Naruto", "One Piece", "Hunter x Hunter"]
+    "adventure": ["Naruto", "One Piece", "Hunter x Hunter"],
+    "psychological" : ["Classroom of the elite","Monster","stein's Gate"],
+    "Isekai" : ["the Eminence in Shadow" , "Re-Zero", ""sword art online"]
 }
 
 @app.route("/", methods=["GET", "POST"])
